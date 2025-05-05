@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Pavel Li](mailto:hello@p4vel.com)
+* [Eugene Dmitrenko](mailto:69-fibula.integer@icloud.com)
