@@ -24,5 +24,5 @@ Do you have an interesting topic to present at one of the future meetings, inclu
 
 ## Leaders
 
-[Eugene Dmitrenko] (mailto:eugene.dmitrenko@owasp.org)
-[Pavel Li] (mailto:pavel.li@owasp.org)
+[Eugene Dmitrenko](mailto:eugene.dmitrenko@owasp.org)
+[Pavel Li](mailto:pavel.li@owasp.org)
