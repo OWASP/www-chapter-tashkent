@@ -1,0 +1,23 @@
+leaders:
+  - name: Pavel Li
+    email: pavel.li@owasp.org
+  - name: Eugene Dmitrenko
+    email: eugene.dmitrenko@owasp.org
+location:
+  country: Uzbekistan
+  country_code: UZ
+  region: Uzbekistan
+  city: Tashkent
+  latitude: 41.2034354
+  longitude: 69.0807246
+meetup_group: owasp-tashkent
+name: OWASP Tashkent
+repositories:
+  - name: www-chapter-tashkent
+    url: https://github.com/OWASP/www-chapter-tashkent
+    description: OWASP Foundation web repository
+tags:
+  - tashkent
+  - owasp-tashkent
+  - uzbekistan
+website: https://owasp.org/www-chapter-tashkent
